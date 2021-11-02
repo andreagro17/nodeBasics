@@ -1,0 +1,16 @@
+{
+  "name": "NODE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node 01-Hola-Mundo"
+  },
+  "keywords": [],
+  "author": "Andrea Castro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreagro17/nodeBasic.git"
+  }
+}
